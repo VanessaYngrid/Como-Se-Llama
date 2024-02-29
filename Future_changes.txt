@@ -1,0 +1,12 @@
+Remove redundancies between javascript files
+-ex: putting all array of clothes into 1 class
+
+Exporting more of the html onto css/js
+
+Adding payment feature
+
+Move all product pages onto 1 page and load clothes dynamically based on choice
+-If there are too many products to show on 1 page, implement pagination
+-Implement filter
+
+Have a product details information page after you click on the product

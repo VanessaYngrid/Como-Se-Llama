@@ -1,0 +1,156 @@
+body {
+    background-color: #F2E9E4;
+}
+
+.card-product {
+  background-color: #A68A64;
+  color: white;
+}
+
+.product-choice {
+    padding-top: 25px;
+    height: 60px;
+    font-size: 40px;
+    font-weight: bold;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.modal-dialog.modal-cart{
+    position: fixed;
+    margin: auto;
+    width: 320px;
+    height: 100%;
+    right: 0px;
+  }
+  
+  .modal-content.modal-cart{
+    height: 100%;
+  }
+
+.card-custom{
+    background-color: #F2E9E4;
+    border-color:  #F2E9E4;
+}
+
+.card-img-top {
+    object-fit: cover;
+}
+
+.navbar-brand {
+    margin-right: auto;
+    margin-left: 10px;
+    margin-bottom: 10px;
+  }
+
+.business{
+    
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: none;
+    color:white;
+    
+
+}
+
+a:hover {
+    color: white;
+    
+  }
+    
+    /* Estilos para los botones en el extremo derecho */
+    .navbar-nav {
+      display: inline;
+      align-items: right;
+      
+    }
+    
+    .buttonFirst {
+      padding: 8px 10px;
+      background-color: #B08968;
+      color: white;
+      border-radius: 4px;
+      font-size: 17px;
+      cursor: pointer;
+      margin-left: 5px;
+      border:none;
+      font-weight:bold;
+      font-family:'Courier New';
+      padding-right: 20px;
+    }
+
+    a.about:link {
+      color: white;
+      text-decoration: none;
+  }
+
+  a.about:visited {
+      color: white;
+      text-decoration: none;
+  }
+  
+    /*Nav bar 2*/
+    .navbar {
+      background-color: #432818;
+      overflow: hidden;
+      color: white;
+      padding: 20px;
+      display: flex;
+      justify-content: space-between;
+    }
+    
+    .left-links {
+      list-style-type: none;
+      padding-left: 20px;
+      margin-left: 0;
+      display: flex;
+    }
+  
+    
+    .left-links li {
+      margin-right: 45px;
+      font-size: 19px;
+      }
+    
+    .left-links a {
+      text-decoration: none;
+      color: white;
+     
+    }
+    
+    .right-section {
+      display: flex;
+      align-items: center;
+    }
+    
+    .search-bar {
+      padding: 8px;
+      margin-left: 20px;
+    }
+    
+    .cart-button {
+      padding: 8px 15px;
+      color: white;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      margin-left: 10px;
+    }
+    
+    .cart-button:hover {
+      background-color:#218380;
+    }
+
+    .contact-info-fluid {
+        background-image: url('../website_photos/contactInfoEnd.jpg'); /* Reemplaza 'ruta/de/tu/imagen.jpg' con la ruta correcta de tu imagen */
+        background-size: cover;
+        color: white;
+        font-weight: bold;
+        padding-left: 50%;
+        padding-top: 5%;
+        padding-bottom: 5%;
+        text-align: left;
+    }
+
+/*End*/
+  
